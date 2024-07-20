@@ -34,7 +34,7 @@ export default function Home() {
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-                    <img className="w-96" src="src\Components\images\Brown Modern Computer Programming Course Instagram Post.png" alt="image1" />
+                    <img className="w-96" src="https://github.com/Ydv-Kunjesh/React_Router/blob/main/src/Components/images/Brown%20Modern%20Computer%20Programming%20Course%20Instagram%20Post.png?raw=true" alt="image1" />
                 </div>
             </aside>
 
